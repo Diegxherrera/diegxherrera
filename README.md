@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegxherrera)](https://github.com/diegxherrera/MySpace)
 </br>
 ## __My Repositories__
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=MySpace)](https://github.com/diegxherrera/MySpace)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=YourSpace)](https://github.com/diegxherrera/YourSpace)
