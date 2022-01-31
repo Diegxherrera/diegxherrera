@@ -3,4 +3,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegxherrera)](https://github.com/diegxherrera/ER-Puenteuropa)
 </br>
 ## __My Repositories__
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=ER-Puenteuropa)](https://github.com/diegxherrera/ER-Puenreuropa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=ER-Puenteuropa)](https://github.com/diegxherrera/ER-Puenteuropa)
