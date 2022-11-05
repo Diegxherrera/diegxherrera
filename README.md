@@ -4,5 +4,4 @@
 </br>
 ## __My Repositories__
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=ER-Puenteuropa)](https://github.com/diegxherrera/ER-Puenteuropa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=ER-Puenteuropa)](https://github.com/diegxherrera/ER-Puenteuropa)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=diegxherrera&repo=Truth-Party)](https://github.com/diegxherrera/Truth-Party)
