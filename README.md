@@ -20,6 +20,10 @@
 
 <h2 align="center">Social Media</h2>
 <p align="center">
+        <a href="https://www.linkedin.com/in/diegxherrera/">
+        <img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=linkedin&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
+            alt="Twitter">
+    </a>
     <a href="https://twitter.com/Diegxherrera">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"
             alt="Twitter">
@@ -33,21 +37,12 @@
             alt="Medium">
     </a>
 </p><br>
-
-<h2 align="center">Github Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Diegxherrera&row_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"
-        alt="Github Stats"><br><br>
-    <a href="https://github.com/Diegxherrera">
-        <img src="https://github-profile-trophy.vercel.app/?username=Diegxherrera&theme=nord&row=2" alt="Trophies">
-    </a>
-    <br>
-</p><br>
-
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Python">
+    <img src="https://img.shields.io/badge/Git-4EAA25?style=for-the-badge&logo=GIT&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="GIT">
     <img src="https://img.shields.io/badge/Swift-00ADD8?style=for-the-badge&logo=swift&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Swift">
     <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
@@ -66,7 +61,16 @@
         alt="REST">
     <img src="https://img.shields.io/badge/SOLID-4EAA25?style=for-the-badge&logo=SOLID&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="SOLID">
+</p><br>
 
+<h2 align="center">Github Stats</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Diegxherrera&row_icons=true&include_all_commits=true&hide=issues&hide_border=true&theme=nord"
+        alt="Github Stats"><br><br>
+    <a href="https://github.com/Diegxherrera">
+        <img src="https://github-profile-trophy.vercel.app/?username=Diegxherrera&theme=nord&row=2" alt="Trophies">
+    </a>
+    <br>
 </p><br>
 
 <h2 align="center">Operative Systems</h2>
