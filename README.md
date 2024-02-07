@@ -3,7 +3,7 @@
         height="150" alt="logo" /></br>
     Diegxherrera
     <h5 align="center">
-        Java Developer | AWS Developer | AI/ML Student</br>
+        Java/AWS Developer | AI/ML Student</br>
         Learning actively ML, React and Clouding
     </h5>
     <h5 align="center">
@@ -39,6 +39,8 @@
 </p><br>
 <h2 align="center">Languages & Technologies</h2>
 <p align="center">
+     <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=openjdk&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Python">
     <img src="https://img.shields.io/badge/Git-4EAA25?style=for-the-badge&logo=GIT&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
@@ -52,17 +54,19 @@
     <img src="https://img.shields.io/badge/JavaScript-4EAA25?style=for-the-badge&logo=JavaScript&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="JavaScript">
     <img src="https://img.shields.io/badge/TypeScript-4EAA25?style=for-the-badge&logo=TypeScript&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="JavaScript">
+        alt="TypeScript">
     <img src="https://img.shields.io/badge/PHP-4EAA25?style=for-the-badge&logo=PHP&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="PHP">
+    <img src="https://img.shields.io/badge/Laravel-4EAA25?style=for-the-badge&logo=Laravel&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="Laravel">
     <img src="https://img.shields.io/badge/React-4EAA25?style=for-the-badge&logo=React&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="React">
     <img src="https://img.shields.io/badge/MySQL-4EAA25?style=for-the-badge&logo=MySQL&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="MySQL">
+    <img src="https://img.shields.io/badge/PostgreSQL-4EAA25?style=for-the-badge&logo=PostgreSQL&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="PostgreSQL">
     <img src="https://img.shields.io/badge/RESTful APIs-4EAA25?style=for-the-badge&logo=REST&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="REST">
-    <img src="https://img.shields.io/badge/SOLID-4EAA25?style=for-the-badge&logo=SOLID&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
-        alt="SOLID">
 </p><br>
 
 <h2 align="center">Github Stats</h2>
