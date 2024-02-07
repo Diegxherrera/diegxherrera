@@ -51,6 +51,8 @@
         alt="TensorFlow">
     <img src="https://img.shields.io/badge/JavaScript-4EAA25?style=for-the-badge&logo=JavaScript&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-4EAA25?style=for-the-badge&logo=TypeScript&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="JavaScript">
     <img src="https://img.shields.io/badge/PHP-4EAA25?style=for-the-badge&logo=PHP&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="PHP">
     <img src="https://img.shields.io/badge/React-4EAA25?style=for-the-badge&logo=React&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
