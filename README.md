@@ -43,6 +43,8 @@
         alt="Java">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="Python">
+    <img src="https://img.shields.io/badge/C-4EAA25?style=for-the-badge&logo=C&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
+        alt="C">
     <img src="https://img.shields.io/badge/Git-4EAA25?style=for-the-badge&logo=GIT&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="GIT">
     <img src="https://img.shields.io/badge/Swift-00ADD8?style=for-the-badge&logo=swift&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
