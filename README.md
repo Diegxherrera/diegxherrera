@@ -3,8 +3,8 @@
         height="150" alt="logo" /></br>
     Diegxherrera
     <h5 align="center">
-        Java/AWS Developer | AI/ML Student</br>
-        Learning actively ML, React and Clouding
+        Java Developer | AI/ML Student</br>
+        Learning actively ML, React and C
     </h5>
     <h5 align="center">
         Contact me: <a href="mailto:diegoherred@icloud.com">diegoherred@icloud.com</>
