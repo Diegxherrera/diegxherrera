@@ -81,7 +81,7 @@
     <br>
 </p><br>
 
-<h2 align="center">Operative Systems</h2>
+<h2 align="center">Operating Systems</h2>
 <p align="center">
     <img src="https://img.shields.io/badge/MacOS-0078D6?style=for-the-badge&logo=macos&logoColor=D9E0EE&color=B5E8E0&labelColor=302D41"
         alt="MacOS">
