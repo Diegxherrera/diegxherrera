@@ -4,7 +4,7 @@
     Diegxherrera
     <h5 align="center">
         Software Developer</br>
-        Learning actively to become a Backend Developer
+        Actively learning to become a Backend Developer
     </h5>
     <h5 align="center">
         Contact me: <a href="mailto:diegoherred@icloud.com">diegoherred@icloud.com</>
